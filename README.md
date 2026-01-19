@@ -1,92 +1,68 @@
 # Library Book Reservation App (UI/UX Design)
 
-## 📌 Project Overview
-The **Library Book Reservation App** is a UI/UX design project created to simplify the process of searching, reserving, and managing library books.  
-This project focuses on providing a **user-friendly, clean, and intuitive interface** for both library users and administrators.
-
+## Project Overview
+The Library Book Reservation App is a high-fidelity UI/UX design project created in Figma to simplify the process of searching and reserving library books. The app provides an intuitive and user-friendly interface for both users and administrators, allowing users to browse books, check availability, and reserve books easily. This project was developed collaboratively by a team of three members as an academic/portfolio project.
 The design was created collaboratively by a team of three members using **Figma**.
 
 ---
 
-## 🎯 Project Objectives
-- Allow users to search and browse available books
-- Enable easy book reservation
-- Display book availability status
-- Provide an admin interface for managing books and reservations
-- Create a clean and accessible user experience
+## Project Objectives
+- Design a user-friendly library book reservation system
+- Enable users to search, view, and reserve books easily
+- Provide clear visibility of book availability
+- Create an intuitive interface for managing reservations
+- Develop a high-fidelity mobile app design using Figma
+- Demonstrate effective team collaboration and UI/UX skills
 
 ---
 
-## 🛠 Tools Used
+## Tools Used
 - **Figma** – UI/UX Design & Prototyping
-- **GitHub** – Project documentation and version control
-
 ---
 
-## 👥 Team Members
-- **Member 1:** *Your Name*
-- **Member 2:** *Team Member Name*
-- **Member 3:** *Team Member Name*
-
-*(Replace names as needed)*
+## Team Members
+- **Member 1:** *Ishrat Jahan*
+- **Member 2:** *Tanzila Akter*
+- **Member 3:** *S M Roqunuzzaman*
 
 ---
 
 ## 📱 App Features
 
-### 👤 User Features
-- User login / registration (UI)
-- Browse available books
-- Search books by title or author
-- View book details
-- Reserve books online
-- View reservation status
+- User onboarding, registration, and login (UI)
+- Home dashboard with featured books
+- Search and browse books by title, author, or category
+- View detailed book information and availability
+- Book a reservation with confirmation
+- View and manage reserved books
+- User profile and settings
+- Admin dashboard for managing books and reservations (UI)
+---
 
-### 🛠 Admin Features
-- Add, update, or delete books
-- Manage user reservations
-- View reservation history
-- Monitor book availability
+## UI Screenshots
+# Mid-Fidelity
+<img width="853" height="215" alt="Screenshot 2026-01-19 at 11 56 23 AM" src="https://github.com/user-attachments/assets/537c4c13-ce29-4e8d-8eb1-2f0c00e1015a" />
+
+# High Fidelity
+<img width="845" height="224" alt="Screenshot 2026-01-19 at 11 56 05 AM" src="https://github.com/user-attachments/assets/63a0288b-73bc-4b24-8e67-b648bddbabbe" />
 
 ---
 
-## 🖼 UI Screenshots
-
-### Home Screen
-![Home Screen](designs/home.png)
-
-### Book List
-![Book List](designs/book-list.png)
-
-### Book Details
-![Book Details](designs/book-details.png)
-
-### Book Reservation
-![Reservation Screen](designs/reservation.png)
-
-### Admin Dashboard
-![Admin Dashboard](designs/admin-dashboard.png)
+## Figma Design Link
+https://www.figma.com/design/NQxd8LiD7O6puxoA9gKREK/Group-Case-Study---Project-01--Tanzila--Anika---Bappie--?node-id=1-4&t=2qYvQ4dwAxfd3ItX-0
 
 ---
 
-## 🔗 Figma Design Link
-👉 **View the full Figma prototype here:**  
-[https://www.figma.com/your-figma-link](https://www.figma.com/your-figma-link)
-
-*(Replace with your actual Figma link)*
-
----
-
-## 🚀 Project Status
+## Project Status
 ✅ UI/UX design completed  
 🔄 Future enhancement: Frontend & backend development
 
 ---
 
-## 📄 License
+## License
 This project is for **educational and portfolio purposes only**.
 
 ---
 
-## ⭐ Acknowledgements
+## Acknowledgements
 Special thanks to all team members for their collaboration and contribution to this project.
