@@ -27,7 +27,7 @@ The design was created collaboratively by a team of three members using **Figma*
 
 ---
 
-## 📱 App Features
+## App Features
 
 - User onboarding, registration, and login (UI)
 - Home dashboard with featured books
@@ -54,8 +54,8 @@ https://www.figma.com/design/NQxd8LiD7O6puxoA9gKREK/Group-Case-Study---Project-0
 ---
 
 ## Project Status
-✅ UI/UX design completed  
-🔄 Future enhancement: Frontend & backend development
+ - UI/UX design completed  
+ - Future enhancement: Frontend & backend development
 
 ---
 
